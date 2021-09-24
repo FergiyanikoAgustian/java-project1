@@ -1,1 +1,1 @@
-war:deploy target/java-0.0.1-SNAPSHOT.jar
+web: java -jar webapp-runner.jar target/java-0.0.1-SNAPSHOT.war
